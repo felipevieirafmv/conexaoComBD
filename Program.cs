@@ -35,7 +35,7 @@ var balem = sellers.FirstOrDefault();
 // await createNotaFiscal(dom, bicoInjetor, balem);
 
 // await updateCliente(dom, "Donathan", "");
-// await deleteCliente(dom);
+await deleteCliente(dom);
 
 searchByClient(dom);
 
